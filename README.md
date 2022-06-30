@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hi there, welcome to my Github! 👋</samp></h3>
+<h3><samp>Hi there, welcome to my Github! 👋</samp></h3>
 <div>
   <a href="https://github.com/chrleal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrleal&count_private=true&show_icons=true&theme=dark"/>
