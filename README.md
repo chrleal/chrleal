@@ -5,11 +5,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrleal&layout=compact&langs_count=7&theme=dark&card_width=220&hide_border=true"/>
   </a>
 </div>
-  
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Chr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Chr-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Chr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <a href="https://github.com/chrleal">
+  <img align="center" alt="Chr-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Chr-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Chr-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  </a>
 <div>
   
 ##
