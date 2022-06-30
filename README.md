@@ -20,4 +20,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=ocean_dark&repo=admin-dashboard&hide_border=true)](https://github.com/chrleal/admin-dashboard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=ocean_dark&repo=sign-up-form&hide_border=true)](https://github.com/chrleal/sign-up-form)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=ocean_dark&repo=Calculator&hide_border=true)](https://github.com/chrleal/Calculator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=ocean_dark&repo=rockPaperScissors&hide_border=true)](https://github.com/chrleal/rockPaperScissors)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=ocean_dark&repo=etch-a-sketch&hide_border=true)](https://github.com/chrleal/etch-a-sketch)
