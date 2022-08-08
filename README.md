@@ -16,6 +16,7 @@
 ##
 <h3 align="center"><samp>Check out my repos ⬇️</samp></h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=weather-app&hide_border=true)](https://github.com/chrleal/weather-app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=restaurant-page&hide_border=true)](https://github.com/chrleal/restaurant-page)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=Tic-Tac-Toe&hide_border=true)](https://github.com/chrleal/Tic-Tac-Toe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=Library&hide_border=true)](https://github.com/chrleal/Library)
