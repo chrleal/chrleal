@@ -20,4 +20,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=Tic-Tac-Toe&hide_border=true)](https://github.com/chrleal/Tic-Tac-Toe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=Library&hide_border=true)](https://github.com/chrleal/Library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=admin-dashboard&hide_border=true)](https://github.com/chrleal/admin-dashboard)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chrleal&theme=dark&repo=sign-up-form&hide_border=true)](https://github.com/chrleal/sign-up-form)
